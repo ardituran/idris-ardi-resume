@@ -1,31 +1,30 @@
 # Idris Ardi - Resume
 
-This repository is my resume. I keep it in **Markdown** and **PDF**, and both files always have the same content.
+My resume, in Markdown and PDF. Both files always have the same content.
 
-## Files in this repository
+## Resume files
 
-### Main version
+| Target | Markdown | PDF |
+| --- | --- | --- |
+| On-site roles in Jakarta, English | [Markdown](Idris-Ardi-Resume-WFO-Jakarta-EN.md) | [PDF](Idris-Ardi-Resume-WFO-Jakarta-EN.pdf) |
+| Remote roles, English | [Markdown](Idris-Ardi-Resume-Remote-EN.md) | [PDF](Idris-Ardi-Resume-Remote-EN.pdf) |
 
-- [Idris-Ardi-Resume.md](Idris-Ardi-Resume.md) — the resume in Markdown. This is my default version, written in English.
-- [Idris-Ardi-Resume.pdf](Idris-Ardi-Resume.pdf) — the PDF version, generated from the Markdown. Use this if you prefer PDF.
+Both versions are ATS-oriented: one column, no tables, no icons, no skill bars, no text inside images. Text stays selectable, so a screening tool reads the same content a person sees.
 
-### Versions per target
+- The Jakarta version marks the location as Jakarta Greater Area and does not mention remote availability.
+- The remote version adds the time zone (UTC+7, WIB), remote availability, and a line about working in English.
 
-I keep separate versions because a recruiter in Jakarta and a hiring manager abroad look for different things first. All of them are ATS-oriented: one column, no tables, no icons, no skill bars.
+## What I send, and when
 
-| File | Language | Target | What is different |
-| --- | --- | --- | --- |
-| [Idris-Ardi-Resume-WFO-Jakarta-ID.md](Idris-Ardi-Resume-WFO-Jakarta-ID.md) | Indonesian | On-site roles in Jakarta Greater Area (Jabodetabek) | Location line marked as Jabodetabek, wording aimed at local recruiters |
-| [Idris-Ardi-Resume-WFO-Jakarta-EN.md](Idris-Ardi-Resume-WFO-Jakarta-EN.md) | English | On-site roles in Jakarta that use English | Same content as above, in English |
-| [Idris-Ardi-Resume-Remote-EN.md](Idris-Ardi-Resume-Remote-EN.md) | English | Remote roles, worldwide | Adds time zone UTC+7, remote availability, and an English proficiency line |
-
-The three target versions are Markdown only for now. PDF exports will follow.
+- Applying to an on-site role in Jakarta that uses English: the Jakarta version.
+- Applying to a remote role: the remote version.
+- Applying anywhere else: either version, or ask me for a tailored one.
 
 ## How I keep versions
 
-- Markdown is my default. The PDF is generated from the Markdown, so both files always have the same content.
-- This repository always shows the current version of my resume. I keep my older versions and full history in a private repository, so this page stays simple.
-- The target versions above do not replace the main one. If a job posting does not match any of the three targets, I send the main version.
+- Markdown is the source. The PDF is generated from it, so the two never drift apart.
+- This page shows only the versions I use. Older files and every change live in my private archive, `ardituran/idris-ardi-resume-history`.
+- Other versions exist but are not listed here. I keep them in `internal/` so this page stays short.
 
 ## A little about me
 
