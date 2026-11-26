@@ -7,7 +7,7 @@ English: professional working proficiency in writing (chat, email, documentation
 
 ## Summary
 
-QA Engineer with more than 10 years in manual and exploratory testing, across seven industries: government procurement, edtech, fintech, e-commerce, SaaS, telecom, and IT services. Two things I do well: finding the gaps other people walk past, and writing them down in steps a developer can follow straight away. I have run UAT sessions, worked with product managers, and kept old problems from riding along into a release. Since 2024 I also help maintain Playwright automation, mostly keeping existing scripts alive.
+QA Engineer with more than 10 years in manual and exploratory testing, across six industries: government procurement, edtech, fintech, e-commerce, SaaS, and IT services. I test web, mobile, and API flows, then write findings as steps a developer can follow straight away. I have run UAT with business users and kept old defects from coming back in a release. Since 2024 I help maintain Playwright scripts. Since August 2026 I build QA agents myself in Multica, writing their instructions and skills so they can read requirements, draft and review test cases, and run execution. I also use Kilo Code in Cursor to help with automation scripts, though my contribution there is still small.
 
 ## Core Competencies
 
