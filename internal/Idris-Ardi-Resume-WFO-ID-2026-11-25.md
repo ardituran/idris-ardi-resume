@@ -32,11 +32,11 @@ QA Engineer dengan pengalaman lebih dari 10 tahun di pengujian manual dan eksplo
 ### Quality Engineer, GovTech Procurement (Proyek LKPP) via PT Infomedia Nusantara
 
 Pengadaan pemerintah | Jakarta, Indonesia | Jul 2026 sampai sekarang | Kontrak
-
-- Menguji e-Katalog dan Sistem Informasi Penyedia, dengan fokus pada alur order, cart, dan logistik yang jadi jalur paling kritikal di proses pengadaan
-- Menyusun skenario uji untuk alur order yang berbelit, termasuk adendum, uang muka, dan retensi, lalu memastikan perilakunya sesuai kebutuhan pengadaan
-- Mencatat defect dengan langkah reproduksi yang jelas, lalu mengawal retest bersama developer sampai perbaikan benar-benar aman dirilis
-- Ikut merawat skrip otomasi Playwright Ruby yang sudah ada, sebagai bentuk keterlibatan otomasi di peran yang tetap berfokus manual
+- Menguji e-Katalog dan Sistem Informasi Penyedia di Staging dan PreProduction, fokus pada alur order, keranjang, dan logistik yang paling berisiko
+- Menyusun skenario uji alur order dengan addendum, uang muka, dan retensi, lalu memeriksa perilakunya terhadap kebutuhan pengadaan
+- Mencatat test case dan eksekusi di Squash TM, melaporkan defect di JIRA dengan langkah reproduksi jelas, dan mengawal uji ulang sampai siap rilis
+- Ikut merawat skrip otomasi Playwright Ruby untuk regression alur order
+- Membangun agent QA di Multica untuk membaca requirement, menyusun dan mereview test case, serta menjalankan eksekusi
 
 ### Software Quality Analyst, INA Digital Edu (Perum Peruri)
 
