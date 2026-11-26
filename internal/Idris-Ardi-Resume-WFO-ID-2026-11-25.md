@@ -11,11 +11,11 @@ QA Engineer dengan pengalaman lebih dari 10 tahun di pengujian manual dan eksplo
 ## Keahlian Inti
 
 - Pengujian manual, eksploratif, regression, dan UAT
-- Pengujian lintas platform: web, iOS, Android
-- Perencanaan tes dan penulisan test case
-- Validasi frontend dan backend
-- Manajemen defect, pelacakan bug, dan penelusuran akar masalah
-- Kerja sama lintas fungsi dalam lingkungan Agile
+- Perencanaan pengujian, penulisan test case, dan analisis requirement
+- Validasi UI dan pengujian API: Postman, status code, payload, cek SQL
+- Manajemen defect, penelusuran akar masalah, dan langkah reproduksi yang jelas
+- QA berbantuan AI: instruksi dan skill agent untuk requirement, test case, dan eksekusi
+- Kerja sama Agile dan analisis log pada transaksi bervolume besar
 
 ## Keahlian Teknis
 
@@ -54,7 +54,7 @@ SaaS, penjualan tiket acara | Jakarta, Indonesia | Agu 2022 sampai Apr 2025
 - Menguji aplikasi Flutter iOS dan Android, termasuk saat sinkronisasi online dan offline, untuk memastikan data tetap utuh ketika koneksi terputus
 - Ikut menurunkan waktu regression manual sebesar 30 persen lewat shift-left testing dan prioritas berbasis risiko, dalam tim QA berisi 6 orang
 - Berdiskusi dengan tim lintas fungsi untuk memperjelas kebutuhan, memvalidasi perbaikan, dan mendokumentasikan hasil pengujian
-- Ikut menangani otomasi Playwright dan Maestro untuk alur pengguna kritikal, serta menjalankan dan merawat skrip beban K6 untuk mengukur performa API
+- Ikut menangani otomasi Playwright dan Maestro untuk alur pengguna kritikal
 
 ### Software Quality Assurance, Tiket.com
 
