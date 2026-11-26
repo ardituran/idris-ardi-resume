@@ -33,11 +33,11 @@ QA Engineer with more than 10 years in manual and exploratory testing, across si
 ### Quality Engineer, GovTech Procurement (LKPP Project) via PT Infomedia Nusantara
 
 Government procurement | Jakarta, Indonesia | Jul 2026 to present | Contract
-
-- Tested e-Katalog and Sistem Informasi Penyedia, focusing on the order, cart, and logistics flows that carry the most risk in the procurement process
-- Designed test scenarios for tangled order flows involving addendum, down payment, and retention, then checked that behaviour matched procurement requirements
-- Logged defects with clear reproduction steps and followed the retest through with developers until the fix was safe to release
-- Helped maintain existing Playwright Ruby scripts, a supporting role inside a job that stays manual-first
+- Tested e-Katalog and Sistem Informasi Penyedia in Staging and PreProduction, focusing on the order, cart, and logistics flows that carry the most risk
+- Designed test scenarios for order flows with addendum, down payment, and retention, then checked behaviour against procurement requirements
+- Tracked test cases and executions in Squash TM, reported defects in JIRA with clear reproduction steps, and stayed on the retest until the fix was ready
+- Maintained existing Playwright Ruby scripts for regression of order flows, alongside a manual-first workload
+- Built QA agents in Multica to read requirements, draft and review test cases, and run execution
 
 ### Software Quality Analyst, INA Digital Edu (Perum Peruri)
 
