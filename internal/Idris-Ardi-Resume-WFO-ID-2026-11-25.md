@@ -32,6 +32,7 @@ QA Engineer dengan pengalaman lebih dari 10 tahun di pengujian manual dan eksplo
 ### Quality Engineer, GovTech Procurement (Proyek LKPP) via PT Infomedia Nusantara
 
 Pengadaan pemerintah | Jakarta, Indonesia | Jul 2026 sampai sekarang | Kontrak
+
 - Menguji e-Katalog dan Sistem Informasi Penyedia di Staging dan PreProduction, fokus pada alur order, keranjang, dan logistik yang paling berisiko
 - Menyusun skenario uji alur order dengan addendum, uang muka, dan retensi, lalu memeriksa perilakunya terhadap kebutuhan pengadaan
 - Mencatat test case dan eksekusi di Squash TM, melaporkan defect di JIRA dengan langkah reproduksi jelas, dan mengawal uji ulang sampai siap rilis
