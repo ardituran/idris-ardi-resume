@@ -11,7 +11,7 @@ My resume, in Markdown and PDF. Both files always have the same content.
 
 The two links above are stable aliases. They always point to the newest version, so a saved link does not break when I update the file.
 
-- The current dated versions are `Idris-Ardi-Resume-WFO-EN-2026-11-25.md` and `Idris-Ardi-Resume-Remote-EN-2026-11-25.md`, with the PDF files next to them.
+- The current dated versions are `Idris-Ardi-Resume-WFO-EN-2026-11-26.md` and `Idris-Ardi-Resume-Remote-EN-2026-11-26.md`, with the PDF files next to them.
 - The alias and the dated file hold identical content. The alias is refreshed whenever a new dated version is added.
 - Both versions are ATS-oriented: one column, no tables, no icons, no skill bars, no text inside images. The text stays selectable, so a screening tool reads the same content a person sees.
 - The Jakarta version marks the location as Jakarta Greater Area and does not mention remote availability.
@@ -25,7 +25,7 @@ The two links above are stable aliases. They always point to the newest version,
 
 ## How I keep versions
 
-- File names carry the modification date, written as `YYYY-MM-DD` in Jakarta time (UTC+7), for example `2026-11-25`.
+- File names carry the modification date, written as `YYYY-MM-DD` in Jakarta time (UTC+7), for example `2026-11-26`.
 - Markdown is the source. The PDF is generated from it, so the two never drift apart.
 - This page shows only the versions I send. Older files and every change live in my private archive, `ardituran/idris-ardi-resume-history`.
 - Other versions exist but are not listed here. I keep them in `internal/` so this page stays short.
