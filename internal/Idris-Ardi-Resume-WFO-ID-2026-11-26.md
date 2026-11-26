@@ -34,8 +34,7 @@ QA Engineer dengan pengalaman lebih dari 10 tahun di pengujian manual dan eksplo
 Pengadaan pemerintah | Jakarta, Indonesia | Jul 2026 sampai sekarang | Kontrak
 
 - Menguji e-Katalog dan Sistem Informasi Penyedia di Staging dan PreProduction, fokus pada alur order, keranjang, dan logistik yang paling berisiko
-- Memegang 36 sub-test QA JIRA untuk Staging dan PreProduction, 24 hijau saat story induk tuntas atau naik review
-- Menulis 214 test case area fitur Order di Squash TM, melaporkan 18 defect di JIRA, dan mengawal uji ulang sampai siap rilis
+- Menulis 214 test case area fitur Order di Squash TM dan memegang 36 sub-test QA JIRA untuk Staging dan PreProduction, 24 hijau, lalu melaporkan 18 defect di JIRA
 - Menyusun skenario uji alur order dengan addendum, uang muka, dan retensi, lalu merawat skrip Playwright Ruby untuk regression
 - Menulis instruksi dan skill untuk agent QA di Multica, yang lalu menyusun 132 test case dari membaca requirement sampai eksekusi
 
