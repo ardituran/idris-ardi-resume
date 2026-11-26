@@ -34,7 +34,7 @@ QA Engineer with more than 10 years in manual and exploratory testing, across si
 
 Government procurement | Jakarta, Indonesia | Jul 2026 to present | Contract
 
-- Tested e-Katalog and Sistem Informasi Penyedia in Staging and PreProduction, focusing on the order, cart, and logistics flows that carry the most risk
+- Tested e-Katalog and Sistem Informasi Penyedia in Staging and PreProduction across six release cycles since Jul 2026, on the order, cart, and logistics flows that carry the most risk, with 141 test cases drafted for these flows
 - Designed test scenarios for order flows with addendum, down payment, and retention, then checked behaviour against procurement requirements
 - Tracked test cases and executions in Squash TM, reported defects in JIRA with clear reproduction steps, and stayed on the retest until the fix was ready
 - Maintained existing Playwright Ruby scripts for regression of order flows, alongside a manual-first workload
