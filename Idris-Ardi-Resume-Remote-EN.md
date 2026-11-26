@@ -20,7 +20,7 @@ QA Engineer with more than 10 years in manual and exploratory testing, across si
 
 ## Technical Skills
 
-- Test management and documentation: JIRA, Xray, Squash TM, Confluence, JAM
+- Test management and documentation: JIRA, Xray, Squash TM, TestRail, Confluence, JAM
 - API and database testing: Postman, SQL joins (MySQL, PostgreSQL), DBeaver, JSON payloads
 - Debugging and analysis: DevTools (Network, Console), log analysis on large transactions
 - Platform testing: web applications, mobile (iOS, Android, Flutter)
@@ -65,7 +65,7 @@ E-commerce ticketing | Jakarta, Indonesia | Jul 2020 to Jun 2022
 - Tested booking, validation, and redemption flows for Entertainment and To Do ticketing across high-volume destinations such as Dufan, Ancol, and Taman Safari
 - Checked display and behaviour consistency across web, iOS, and Android during peak booking periods, then followed up UI and integration findings with other teams
 - Traced edge cases and verified data integrity for high-volume transactions through log analysis and SQL queries
-- Wrote and ran test plans in a test management tool and JIRA while coordinating with engineers and product managers
+- Wrote and ran test plans in TestRail and JIRA while coordinating with engineers and product managers
 
 ### Software QA Engineer, Grab Merchant
 
@@ -74,7 +74,7 @@ Fintech, on-demand services | Jakarta, Indonesia | Aug 2019 to Jul 2020
 - Tested merchant onboarding and KYC/KYB verification for QRIS payment code generation, with attention to Indonesian financial regulations
 - Tested onboarding APIs in Postman, then checked data accuracy through SQL queries
 - Tested merchant apps on Android and iOS, making sure the onboarding flow stayed consistent and the UI matched Grab design standards
-- Wrote testing procedures and documentation in Confluence and the test management tool so quality execution stayed consistent
+- Wrote testing procedures and documentation in Confluence and TestRail so quality execution stayed consistent across the team
 
 ### Software QA Analyst, Kudo (now GrabKios)
 
