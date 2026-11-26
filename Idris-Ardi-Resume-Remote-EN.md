@@ -1,6 +1,6 @@
 # Idris Ardi
 
-QA Engineer, Manual and Exploratory Testing
+QA Engineer, Manual and Exploratory Testing | Automation exposure and AI-assisted | 10+ years
 Bogor, Indonesia (UTC+7, WIB) | Open to full-time remote roles; async-first
 idris.ardi.qa@gmail.com | +62 857-1714-1630 | linkedin.com/in/idrisardi | github.com/ardituran
 English: professional working proficiency in writing (chat, email, documentation); have worked in a fully English-speaking team
