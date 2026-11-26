@@ -3,6 +3,7 @@
 QA Engineer, Manual and Exploratory Testing | Automation exposure and AI-assisted | 10+ years
 Jakarta Greater Area, Indonesia (Bogor, West Java)
 idris.ardi.qa@gmail.com | +62 857-1714-1630 | linkedin.com/in/idrisardi | github.com/ardituran
+English: professional working proficiency in writing (chat, email, documentation); worked in a fully English-speaking team
 
 ## Summary
 
