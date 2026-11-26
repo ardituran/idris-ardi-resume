@@ -12,11 +12,11 @@ QA Engineer with more than 10 years in manual and exploratory testing, across si
 ## Core Competencies
 
 - Manual, exploratory, regression, and UAT testing
-- Cross-platform testing: web, iOS, Android
-- Test planning and test case writing
-- Frontend and backend validation
-- Defect management, bug tracking, and root cause investigation
-- Cross-functional collaboration in Agile teams
+- Test planning, test case writing, and requirement analysis
+- UI validation and API testing: Postman, status codes, payloads, SQL checks
+- Defect management, root cause investigation, and clear reproduction steps
+- AI-assisted QA: agent instructions and skills for requirements, test cases, and execution
+- Written handover in English: test plans, defect reports, async collaboration
 
 ## Technical Skills
 
@@ -56,7 +56,7 @@ SaaS, event ticketing | Jakarta, Indonesia | Aug 2022 to Apr 2025
 - Tested Flutter apps on iOS and Android, including online and offline sync, to make sure data held up when the connection dropped
 - Helped cut manual regression time by 30 percent through shift-left testing and risk-based prioritisation in a 6-person QA team
 - Worked with cross-functional teams to clarify requirements, validate fixes, and document test results
-- Helped with Playwright and Maestro automation for critical user flows, and ran and maintained K6 load scripts to measure API performance
+- Helped with Playwright and Maestro automation for critical user flows
 
 ### Software Quality Assurance, Tiket.com
 
