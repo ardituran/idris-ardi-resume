@@ -6,7 +6,7 @@ idris.ardi.qa@gmail.com | +62 857-1714-1630 | linkedin.com/in/idrisardi | github
 
 ## Ringkasan
 
-QA Engineer dengan pengalaman lebih dari 10 tahun di pengujian manual dan eksploratif. Sudah menangani tujuh bidang sekaligus: pengadaan pemerintah, edutech, fintech, e-commerce, SaaS, telekomunikasi, dan layanan TI. Kekuatan saya ada di dua hal: menemukan celah yang orang lain lewatkan, dan menuliskan temuan dengan langkah yang bisa langsung diikuti developer. Saya juga terbiasa mendampingi UAT, berdiskusi dengan product manager, dan menjaga agar rilis tidak membawa masalah lama. Sejak 2024 saya ikut memegang otomasi Playwright, terutama untuk merawat skrip yang sudah berjalan.
+QA Engineer dengan pengalaman lebih dari 10 tahun di pengujian manual dan eksploratif, di enam bidang: pengadaan pemerintah, edutech, fintech, e-commerce, SaaS, dan layanan TI. Saya menguji alur web, mobile, dan API, lalu menuliskan temuan dengan langkah yang bisa langsung diikuti developer. Saya biasa mendampingi UAT bersama pengguna bisnis dan memastikan defect lama tidak muncul lagi di rilis berikutnya. Sejak 2024 saya ikut merawat skrip Playwright. Sejak Agustus 2026 saya menyusun agent QA sendiri di Multica, mulai dari menulis instruksi dan skill-nya, supaya bisa membaca requirement, menyusun dan mereview test case, lalu menjalankan eksekusi. Untuk skrip otomasi saya memakai Kilo Code di Cursor, dan sumbangan saya di bagian itu masih kecil.
 
 ## Keahlian Inti
 
