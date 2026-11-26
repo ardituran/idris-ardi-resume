@@ -43,10 +43,10 @@ Government procurement | Jakarta, Indonesia | Jul 2026 to present | Contract
 
 Edtech | South Tangerang, Indonesia | Mar 2026 to Apr 2026 | Contract
 
-- Wrote exploratory, functional, and end-to-end test cases from PRD review and sprint planning for an education platform used by schools across Indonesia
-- Tested APIs in Postman to check endpoint behaviour and data consistency, then cross-checked backend records in PostgreSQL through DBeaver
-- Found and logged defects in JIRA with expected versus actual results, then supported retesting with the engineering team
-- Wrote the UAT documentation and facilitated UAT sessions with stakeholders until features met the acceptance criteria
+- Wrote exploratory, functional, and end-to-end test cases from PRD and sprint plans for an education platform used by schools across Indonesia
+- Tested APIs in Postman for endpoint behaviour and data consistency, then cross-checked the records behind them in PostgreSQL through DBeaver
+- Logged defects in JIRA with reproduction steps, and retested the fixes with the engineering team
+- Wrote the UAT documentation and ran UAT sessions with stakeholders until every feature met its acceptance criteria
 
 ### QA Engineer, Tiptip.id
 
