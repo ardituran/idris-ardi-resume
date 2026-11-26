@@ -7,7 +7,7 @@ English: professional working proficiency in writing (chat, email, documentation
 
 ## Summary
 
-QA Engineer with more than 10 years in manual and exploratory testing, across six industries: government procurement, edtech, fintech, e-commerce, SaaS, and IT services. I test web, mobile, and API flows, then write findings as steps a developer can follow straight away. I have run UAT with business users and kept old defects from coming back in a release. Since 2024 I help maintain Playwright scripts. Since August 2026 I build QA agents myself in Multica, writing their instructions and skills so they can read requirements, draft and review test cases, and run execution. I also use Kilo Code in Cursor to help with automation scripts, though my contribution there is still small.
+QA Engineer with more than 10 years in manual and exploratory testing, across six industries: government procurement, edtech, fintech, e-commerce, SaaS, and IT services. I test web, mobile, and API flows, then write findings as steps a developer can follow straight away. I have run UAT with business users and kept old defects from coming back in a release. Since 2024 I help maintain Playwright scripts. Since August 2026 I design the instructions and skills behind QA agents in Multica, so they can read requirements, draft and review test cases, and run execution. I also use Kilo Code in Cursor to help with automation scripts, though my contribution there is still small.
 
 ## Core Competencies
 
@@ -36,10 +36,9 @@ Government procurement | Jakarta, Indonesia | Jul 2026 to present | Contract
 
 - Tested e-Katalog and Sistem Informasi Penyedia in Staging and PreProduction, focusing on the order, cart, and logistics flows that carry the most risk
 - Owned 36 JIRA QA sub-tests for Staging and PreProduction, with 24 green while the parent story was done or in release review
-- Wrote 214 test cases for the Order feature area in Squash TM, 132 of them drafted by QA agents I built, and reported 18 defects in JIRA
-- Designed test scenarios for order flows with addendum, down payment, and retention, then checked behaviour against procurement requirements
-- Maintained existing Playwright Ruby scripts for regression of order flows, alongside a manual-first workload
-- Built QA agents in Multica to read requirements, draft and review test cases, and run execution
+- Wrote 214 test cases for the Order feature area in Squash TM, reported 18 defects in JIRA, and stayed on the retest until each fix was ready
+- Designed test scenarios for order flows with addendum, down payment, and retention, and maintained Playwright Ruby scripts for their regression
+- Wrote the instructions and skills for QA agents in Multica, which then drafted 132 of those test cases from requirement reading to execution
 
 ### Software Quality Analyst, INA Digital Edu (Perum Peruri)
 

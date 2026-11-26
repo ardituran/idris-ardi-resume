@@ -6,7 +6,7 @@ idris.ardi.qa@gmail.com | +62 857-1714-1630 | linkedin.com/in/idrisardi | github
 
 ## Ringkasan
 
-QA Engineer dengan pengalaman lebih dari 10 tahun di pengujian manual dan eksploratif, di enam bidang: pengadaan pemerintah, edutech, fintech, e-commerce, SaaS, dan layanan TI. Saya menguji alur web, mobile, dan API, lalu menuliskan temuan dengan langkah yang bisa langsung diikuti developer. Sejak 2024 saya ikut merawat skrip Playwright. Sejak Agustus 2026 saya menyusun agent QA sendiri di Multica, dari menulis instruksi dan skill-nya sampai menjalankan eksekusi. Untuk otomasi saya memakai Kilo Code di Cursor, dengan sumbangan yang masih kecil.
+QA Engineer dengan pengalaman lebih dari 10 tahun di pengujian manual dan eksploratif, di enam bidang: pengadaan pemerintah, edutech, fintech, e-commerce, SaaS, dan layanan TI. Saya menguji alur web, mobile, dan API, lalu menuliskan temuan dengan langkah yang bisa langsung diikuti developer. Sejak 2024 saya ikut merawat skrip Playwright. Sejak Agustus 2026 saya menulis instruksi dan skill untuk agent QA di Multica, dari membaca requirement sampai menjalankan eksekusi. Untuk otomasi saya memakai Kilo Code di Cursor, dengan sumbangan yang masih kecil.
 
 ## Keahlian Inti
 
@@ -35,9 +35,9 @@ Pengadaan pemerintah | Jakarta, Indonesia | Jul 2026 sampai sekarang | Kontrak
 
 - Menguji e-Katalog dan Sistem Informasi Penyedia di Staging dan PreProduction, fokus pada alur order, keranjang, dan logistik yang paling berisiko
 - Memegang 36 sub-test QA JIRA untuk Staging dan PreProduction, 24 hijau saat story induk tuntas atau naik review
-- Menulis 214 test case area fitur Order di Squash TM, 132 disusun agent QA saya, dan melaporkan 18 defect di JIRA
+- Menulis 214 test case area fitur Order di Squash TM, melaporkan 18 defect di JIRA, dan mengawal uji ulang sampai siap rilis
 - Menyusun skenario uji alur order dengan addendum, uang muka, dan retensi, lalu merawat skrip Playwright Ruby untuk regression
-- Membangun agent QA di Multica untuk membaca requirement, menyusun dan mereview test case, serta menjalankan eksekusi
+- Menulis instruksi dan skill untuk agent QA di Multica, yang lalu menyusun 132 test case dari membaca requirement sampai eksekusi
 
 ### Software Quality Analyst, INA Digital Edu (Perum Peruri)
 
