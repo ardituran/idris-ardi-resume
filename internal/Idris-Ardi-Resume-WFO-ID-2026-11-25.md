@@ -19,12 +19,13 @@ QA Engineer dengan pengalaman lebih dari 10 tahun di pengujian manual dan eksplo
 
 ## Keahlian Teknis
 
-- Manajemen tes dan dokumentasi: JIRA, Xray, TestRail (familiar), Confluence
-- Pengujian API dan basis data: Postman, SQL (MySQL, PostgreSQL), DBeaver, JSON
-- Debugging dan analisis: Browser DevTools, Web Console
-- Pengujian platform: aplikasi web, mobile (iOS, Android, Flutter)
-- Kontrol versi: Git, GitHub
-- Otomasi, tingkat pemakaian: Playwright (JavaScript, TypeScript, Ruby), Maestro, Gherkin
+- Manajemen tes dan dokumentasi: JIRA, Xray, Squash TM, TestRail (familiar), Confluence, JAM
+- Pengujian API dan basis data: Postman, SQL join, MySQL, PostgreSQL, DBeaver, JSON
+- Debugging dan analisis: DevTools (Network, Console), analisis log transaksi besar
+- Pengujian platform: web, mobile (iOS, Android, Flutter)
+- Otomasi, tingkat pemakaian: Playwright (JavaScript, TypeScript), Maestro, Gherkin
+- Perkakas AI: Midas (AI Telkom), Kilo Code di Cursor, agent Multica, Gemini, Perplexity
+- Kontrol versi dan akses: Git, GitHub, VPN Tailscale
 
 ## Pengalaman Kerja
 

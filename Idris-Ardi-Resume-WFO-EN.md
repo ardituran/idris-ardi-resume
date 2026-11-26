@@ -20,12 +20,13 @@ QA Engineer with more than 10 years in manual and exploratory testing, across si
 
 ## Technical Skills
 
-- Test management and documentation: JIRA, Xray, TestRail (familiar), Confluence
-- API and database testing: Postman, SQL (MySQL, PostgreSQL), DBeaver, JSON
-- Debugging and analysis: Browser DevTools, Web Console
+- Test management and documentation: JIRA, Xray, Squash TM, TestRail (familiar), Confluence, JAM
+- API and database testing: Postman, SQL joins (MySQL, PostgreSQL), DBeaver, JSON payloads
+- Debugging and analysis: DevTools (Network, Console), log analysis on large transactions
 - Platform testing: web applications, mobile (iOS, Android, Flutter)
-- Version control: Git, GitHub
-- Test automation, working exposure: Playwright (JavaScript, TypeScript, Ruby), Maestro, Gherkin
+- Test automation, exposure: Playwright (JavaScript, TypeScript), Maestro, Gherkin
+- AI-assisted tooling: Midas (Telkom AI), Kilo Code in Cursor, Multica agents, Gemini, Perplexity
+- Version control and access: Git, GitHub, Tailscale VPN
 
 ## Work Experience
 
