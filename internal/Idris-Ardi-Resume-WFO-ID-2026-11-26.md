@@ -43,9 +43,9 @@ Pengadaan pemerintah | Jakarta, Indonesia | Jul 2026 sampai sekarang | Kontrak
 Edutech | Tangerang Selatan, Indonesia | Mar 2026 sampai Apr 2026 | Kontrak
 
 - Menyusun test case eksploratif, fungsional, dan end-to-end dari PRD dan rencana sprint untuk platform pendidikan yang dipakai sekolah di seluruh Indonesia
-- Menguji API di Postman untuk perilaku endpoint dan konsistensi data, lalu mencocokkan data backend di PostgreSQL lewat DBeaver
-- Mencatat defect di JIRA lengkap dengan langkah reproduksi, lalu menguji ulang perbaikannya bersama tim engineering
+- Menguji API di Postman dan mencocokkan data backend di PostgreSQL lewat DBeaver, lalu mencatat defect di JIRA dan menguji ulang perbaikannya bersama tim engineering
 - Menyusun dokumen UAT dan memandu sesi UAT bersama pemangku kepentingan sampai setiap fitur memenuhi kriteria penerimaan
+- Memperbaiki skrip automation yang rusak dan menambah alur uji otomatis baru, keduanya lewat pull request
 
 ### QA Engineer, Tiptip.id
 
