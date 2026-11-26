@@ -19,7 +19,7 @@ QA Engineer dengan pengalaman lebih dari 10 tahun di pengujian manual dan eksplo
 
 ## Keahlian Teknis
 
-- Manajemen tes dan dokumentasi: JIRA, Xray, Squash TM, Confluence, JAM
+- Manajemen tes dan dokumentasi: JIRA, Xray, Squash TM, TestRail, Confluence, JAM
 - Pengujian API dan basis data: Postman, SQL join, MySQL, PostgreSQL, DBeaver, JSON
 - Debugging dan analisis: DevTools (Network, Console), analisis log transaksi besar
 - Pengujian platform: web, mobile (iOS, Android, Flutter)
@@ -64,7 +64,7 @@ E-commerce tiket | Jakarta, Indonesia | Jul 2020 sampai Jun 2022
 - Menguji alur booking, validasi, dan penukaran tiket untuk platform Entertainment dan To Do pada destinasi besar seperti Dufan, Ancol, dan Taman Safari
 - Memeriksa konsistensi tampilan dan fungsi di web, iOS, dan Android saat periode pemesanan puncak, lalu menindaklanjuti temuan UI dan integrasi bersama tim lain
 - Menelusuri edge case dan memastikan integritas data transaksi bervolume tinggi lewat analisis log dan query SQL
-- Menyusun dan menjalankan test plan di alat manajemen tes dan JIRA, sambil berkoordinasi dengan engineer dan product manager
+- Menyusun dan menjalankan test plan di TestRail dan JIRA, sambil berkoordinasi dengan engineer dan product manager
 
 ### Software QA Engineer, Grab Merchant
 
@@ -73,7 +73,7 @@ Fintech, layanan on-demand | Jakarta, Indonesia | Agu 2019 sampai Jul 2020
 - Menguji onboarding merchant dan verifikasi KYC/KYB untuk pembuatan kode pembayaran QRIS, dengan perhatian pada kesesuaian terhadap regulasi keuangan Indonesia
 - Menguji API alur onboarding merchant dengan Postman, lalu mencocokkan keakuratan data lewat query SQL
 - Menguji aplikasi merchant Android dan iOS, memastikan alur onboarding konsisten dan tampilan sesuai standar desain Grab
-- Menyusun prosedur dan dokumentasi pengujian di Confluence dan alat manajemen tes, supaya eksekusi kualitas konsisten antar anggota tim
+- Menyusun prosedur dan dokumentasi pengujian di Confluence dan TestRail, supaya eksekusi kualitas lebih konsisten antar anggota tim
 
 ### Software QA Analyst, Kudo (kini GrabKios)
 
