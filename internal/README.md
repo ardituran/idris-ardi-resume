@@ -5,6 +5,7 @@ Files in this folder are not shown on the repository front page. I keep them for
 | File | What it is | When I use it |
 | --- | --- | --- |
 | `Idris-Ardi-Resume-WFO-ID-2026-11-25.md` | Same resume in Indonesian, for on-site roles in Jakarta Greater Area | When the recruiter or the company works in Indonesian |
+| `Idris-Ardi-Resume-WFO-ID-2026-11-25.pdf` | PDF of that file, built from the Markdown with the same template as the two English versions | Same situations, when a PDF is needed |
 | `Idris-Ardi-Resume-2026-11-19.md` | Previous default version, English, last changed 2026-11-19 | Kept for reference and for links that still point here |
 | `Idris-Ardi-Resume.pdf` | PDF of that previous default version, printed from Chrome, not generated from the Markdown | Kept under its old name as a historical file |
 
