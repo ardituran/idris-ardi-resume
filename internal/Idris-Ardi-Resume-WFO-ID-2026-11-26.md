@@ -87,10 +87,9 @@ Fintech, pembayaran digital | Jakarta, Indonesia | Sep 2017 sampai Agu 2019
 
 Solusi TI | Jakarta, Indonesia | Jun 2014 sampai Sep 2017
 
-- Menguji sistem CRM kompleks milik Starhub Singapura, mencakup paket layanan internet dan TV kabel, dengan perhatian pada kebutuhan bisnis dan keakuratan billing
-- Menangani proyek enterprise lintas bidang: keuangan (Astra Credit ITSM), logistik (MyJNE), otomotif (Toyota suku cadang), dan startup teknologi (Invisee)
-- Menjalankan pengujian fungsional dan regression pada aplikasi web dan mobile di berbagai proyek klien, dengan penyelesaian defect yang konsisten
-- Menjalani peran QA profesional pertama, termasuk perencanaan tes dan dokumentasi defect di JIRA
+- Menguji sistem CRM telco untuk Starhub Singapura, mencakup paket internet dan TV kabel beserta aturan billing di balik tiap paket
+- Menguji sistem klien enterprise di bidang keuangan (Astra Credit ITSM), logistik (MyJNE), otomotif (suku cadang Toyota), dan startup teknologi (Invisee), di web dan mobile
+- Memegang perencanaan tes dan dokumentasi defect di JIRA, sambil melewati tiga tahun dan empat bidang klien di perusahaan yang sama
 
 ## Pendidikan
 
