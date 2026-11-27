@@ -36,7 +36,7 @@ Government procurement | Jakarta, Indonesia | Jul 2026 to present | Contract
 
 - Tested e-Katalog and Sistem Informasi Penyedia in Staging and PreProduction, focusing on the order, cart, and logistics flows that carry the most risk
 - Wrote 214 test cases for the Order area in Squash TM and owned 36 JIRA QA sub-tests for Staging and PreProduction, with 24 green, then reported 18 defects in JIRA
-- Designed test scenarios for order flows with addendum, down payment, and retention, and maintained Playwright Ruby scripts for their regression
+- Designed test scenarios for order flows with addendum, down payment, and retention, and kept the existing Playwright Ruby scripts running for their regression
 - Wrote the instructions and skills for QA agents in Multica, which then drafted 132 of those test cases from requirement reading to execution
 
 ### Software Quality Analyst, INA Digital Edu (Perum Peruri)

@@ -35,7 +35,7 @@ Pengadaan pemerintah | Jakarta, Indonesia | Jul 2026 sampai sekarang | Kontrak
 
 - Menguji e-Katalog dan Sistem Informasi Penyedia di Staging dan PreProduction, fokus pada alur order, keranjang, dan logistik yang paling berisiko
 - Menulis 214 test case area fitur Order di Squash TM dan memegang 36 sub-test QA JIRA untuk Staging dan PreProduction, 24 hijau, lalu melaporkan 18 defect di JIRA
-- Menyusun skenario uji alur order dengan addendum, uang muka, dan retensi, lalu merawat skrip Playwright Ruby untuk regression
+- Menyusun skenario uji alur order dengan addendum, uang muka, dan retensi, lalu menjaga skrip Playwright Ruby yang sudah ada tetap berjalan untuk regression
 - Menulis instruksi dan skill untuk agent QA di Multica, yang lalu menyusun 132 test case dari membaca requirement sampai eksekusi
 
 ### Software Quality Analyst, INA Digital Edu (Perum Peruri)
