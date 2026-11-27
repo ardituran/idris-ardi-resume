@@ -32,11 +32,17 @@ The two links above are stable aliases. They always point to the newest version,
 
 ## A little about me
 
-I am a QA Engineer with more than 10 years of experience in manual and exploratory testing. I have worked in government technology, procurement, education technology, fintech, e-commerce, SaaS, telecom, and IT services.
+I am a QA Engineer with more than 10 years of experience in manual and exploratory testing. I have worked in six fields: government procurement, education technology, fintech, e-commerce, SaaS, and IT services.
 
-Since 2024 I have been learning test automation with Playwright. I keep a small automation portfolio here: [hotel-planisphere-bdd-playwright-typescript](https://github.com/ardituran/hotel-planisphere-bdd-playwright-typescript). It shows how I write test cases and how I work, more than how clever my code is.
+Since 2024 I have been helping maintain Playwright scripts, and I am still learning automation. I keep a small automation portfolio here: [hotel-planisphere-bdd-playwright-typescript](https://github.com/ardituran/hotel-planisphere-bdd-playwright-typescript). It shows how I write test cases and how I work, more than how clever my code is.
 
 I am still learning, and I would rather say that honestly than pretend to be an expert.
+
+## How this resume is made
+
+I write this resume with AI help, and I put that here on purpose. The wording goes through an assistant, and the PDFs are built by a script from the Markdown, not typed by hand.
+
+Every number on it comes from Squash TM or Jira, and anyone who asks can open it. The claims are mine, and I check each line before sending it.
 
 ## Contact
 
