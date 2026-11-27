@@ -51,11 +51,10 @@ Edutech | Tangerang Selatan, Indonesia | Mar 2026 sampai Apr 2026 | Kontrak
 
 SaaS, penjualan tiket acara | Jakarta, Indonesia | Agu 2022 sampai Apr 2025
 
-- Menguji platform penjualan tiket acara secara manual dan eksploratif, menyusun test case langsung dari kebutuhan produk, lalu mencatat defect di JIRA dan Xray
+- Menguji platform penjualan tiket acara lewat pengujian manual dan eksploratif, menyusun test case dari kebutuhan produk, lalu mencatat defect di JIRA dan Xray
 - Menguji aplikasi Flutter iOS dan Android, termasuk saat sinkronisasi online dan offline, untuk memastikan data tetap utuh ketika koneksi terputus
-- Ikut menurunkan waktu regression manual sebesar 30 persen lewat shift-left testing dan prioritas berbasis risiko, dalam tim QA berisi 6 orang
-- Berdiskusi dengan tim lintas fungsi untuk memperjelas kebutuhan, memvalidasi perbaikan, dan mendokumentasikan hasil pengujian
-- Ikut menangani otomasi Playwright dan Maestro untuk alur pengguna kritikal
+- Ikut menurunkan waktu regression manual sebesar 30% di tim QA berisi 6 orang lewat shift-left testing dan prioritas berbasis risiko
+- Merawat otomasi Playwright dan Maestro untuk alur pengguna kritikal
 
 ### Software Quality Assurance, Tiket.com
 
