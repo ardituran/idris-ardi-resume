@@ -52,11 +52,10 @@ Edtech | South Tangerang, Indonesia | Mar 2026 to Apr 2026 | Contract
 
 SaaS, event ticketing | Jakarta, Indonesia | Aug 2022 to Apr 2025
 
-- Tested an event ticketing platform manually and exploratorily, writing test cases straight from product requirements and tracking defects in JIRA and Xray
+- Tested an event ticketing platform through manual and exploratory testing, writing test cases from product requirements and tracking defects in JIRA and Xray
 - Tested Flutter apps on iOS and Android, including online and offline sync, to make sure data held up when the connection dropped
-- Helped cut manual regression time by 30 percent through shift-left testing and risk-based prioritisation in a 6-person QA team
-- Worked with cross-functional teams to clarify requirements, validate fixes, and document test results
-- Helped with Playwright and Maestro automation for critical user flows
+- Contributed to a 30% cut in manual regression time in a 6-person QA team through shift-left testing and risk-based prioritisation
+- Maintained Playwright and Maestro automation for critical user flows
 
 ### Software Quality Assurance, Tiket.com
 
