@@ -80,8 +80,8 @@ Fintech, on-demand services | Jakarta, Indonesia | Aug 2019 to Jul 2020
 Fintech, digital payments | Jakarta, Indonesia | Sep 2017 to Aug 2019
 
 - Tested promo and voucher systems in high-volume transaction environments to close fraud gaps, including supporting fraud incident response by reproducing production scenarios
-- Applied Black Box, Grey Box, and Sanity testing across modules, keeping quality consistent from one release cycle to the next
-- Worked with product managers and business teams to clarify requirements, prioritise critical features, and line testing up with business goals
+- Applied Black Box, Grey Box, and Sanity testing across modules, logged the findings in JIRA, and checked the data behind them in MySQL
+- Joined the promo squad formed after earlier promo and voucher fraud cases, working with product and business teams to decide which features to test first
 
 ### Software QA Tester, Pradipta Jatis Indonesia (formerly Pactera Jatis Indonesia)
 
