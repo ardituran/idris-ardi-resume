@@ -1,13 +1,13 @@
 # Idris Ardi
 
-QA Engineer, Manual and Exploratory Testing | Automation exposure and AI-assisted | 10+ years
+QA Engineer, Manual and Exploratory Testing | Automation exposure and AI-assisted testing | 10+ years
 Bogor, Indonesia (UTC+7, WIB) | Open to full-time remote roles; async-first
 idris.ardi.qa@gmail.com | +62 857-1714-1630 | linkedin.com/in/idrisardi | github.com/ardituran
 English: professional working proficiency in writing (chat, email, documentation); worked in a fully English-speaking team
 
 ## Summary
 
-QA Engineer with more than 10 years in manual and exploratory testing, across six industries: government procurement, edtech, fintech, e-commerce, SaaS, and IT services. I work well in writing: findings go out as clear reproduction steps, not as long chat threads. I test web, mobile, and API flows. Since 2024 I help maintain Playwright scripts. Since August 2026 I design the instructions and skills behind QA agents in Multica, so they can read requirements, draft and review test cases, and run execution. I also use Kilo Code in Cursor to help with automation scripts, though my contribution there is still small.
+QA Engineer with more than 10 years in manual and exploratory testing, across six industries: government procurement, edtech, fintech, e-commerce, SaaS, and IT services. I work well in writing: findings go out as clear reproduction steps, not as long chat threads. I test web, mobile, and API flows. Since 2024 I help maintain Playwright scripts. Since August 2026 I design the instructions and skills behind QA agents in Multica, so they can read requirements, draft and review test cases, and run execution. I also use Kilo Code in Cursor to help with automation scripts.
 
 ## Core Competencies
 
@@ -24,7 +24,7 @@ QA Engineer with more than 10 years in manual and exploratory testing, across si
 - API and database testing: Postman, SQL joins (MySQL, PostgreSQL), DBeaver, JSON payloads
 - Debugging and analysis: DevTools (Network, Console), log analysis on large transactions
 - Platform testing: web applications, mobile (iOS, Android, Flutter)
-- Test automation, exposure: Playwright (JavaScript, TypeScript), Maestro, Gherkin
+- Test automation (exposure): Playwright (JavaScript, TypeScript), Maestro, Gherkin
 - AI-assisted tooling: Kilo Code in Cursor, Multica agents, Gemini, Perplexity
 - Version control: Git, GitHub
 
@@ -35,7 +35,7 @@ QA Engineer with more than 10 years in manual and exploratory testing, across si
 Government procurement | Jakarta, Indonesia | Jul 2026 to present | Contract
 
 - Tested e-Katalog and Sistem Informasi Penyedia in Staging and PreProduction, focusing on the order, cart, and logistics flows that carry the most risk
-- Wrote 214 test cases for the Order area in Squash TM and owned 36 JIRA QA sub-tests for Staging and PreProduction, with 24 green, then reported 18 defects in JIRA
+- Wrote 214 test cases for the Order area in Squash TM and owned 36 JIRA QA sub-tests for Staging and PreProduction, with 24 of them passing, then reported 18 defects in JIRA
 - Designed test scenarios for order flows with addendum, down payment, and retention, and kept the existing Playwright Ruby scripts running for their regression
 - Wrote the instructions and skills for QA agents in Multica, which then drafted 132 of those test cases from requirement reading to execution
 
@@ -44,7 +44,7 @@ Government procurement | Jakarta, Indonesia | Jul 2026 to present | Contract
 Edtech | South Tangerang, Indonesia | Mar 2026 to Apr 2026 | Contract
 
 - Wrote exploratory, functional, and end-to-end test cases from PRD and sprint plans for an education platform used by schools across Indonesia
-- Tested APIs in Postman and cross-checked backend records in PostgreSQL through DBeaver, then logged defects in JIRA and retested the fixes with the engineering team
+- Ran API tests in Postman and cross-checked backend records in PostgreSQL through DBeaver, then logged defects in JIRA and retested the fixes with the engineering team
 - Wrote the UAT documentation and ran UAT sessions with stakeholders until every feature met its acceptance criteria
 - Repaired a broken automation script and added a new automated test flow, both delivered through pull requests
 
@@ -61,7 +61,7 @@ SaaS, event ticketing | Jakarta, Indonesia | Aug 2022 to Apr 2025
 
 E-commerce ticketing | Jakarta, Indonesia | Jul 2020 to Jun 2022
 
-- Tested booking, validation, and redemption flows for Entertainment and To Do ticketing at high-traffic destinations such as Dufan, Ancol, and Taman Safari
+- Verified booking, validation, and redemption flows for Entertainment and To Do ticketing at high-traffic destinations such as Dufan, Ancol, and Taman Safari
 - Checked web, iOS, and Android builds for display and behaviour consistency during peak booking periods, and raised the UI and integration gaps they surfaced to the owning teams
 - Verified data integrity for high-volume transactions through log analysis and SQL queries, tracing the edge cases behind failed bookings
 - Wrote and ran test plans in TestRail and JIRA, working directly with engineers and product managers to close each gap before release
@@ -88,7 +88,7 @@ Fintech, digital payments | Jakarta, Indonesia | Sep 2017 to Aug 2019
 
 IT solutions | Jakarta, Indonesia | Jun 2014 to Sep 2017
 
-- Tested a telco CRM system for Starhub Singapore, covering internet and TV cable packages and the billing rules behind each one
+- Checked a telco CRM system for Starhub Singapore, covering internet and TV cable packages and the billing rules behind each one
 - Tested enterprise client systems across finance (Astra Credit ITSM), logistics (MyJNE), automotive (Toyota spare parts), and tech startups (Invisee), on web and mobile
 - Owned test planning and defect documentation in JIRA, and saw the same employer through three years and four industries
 
