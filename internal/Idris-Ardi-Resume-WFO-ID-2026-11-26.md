@@ -78,7 +78,7 @@ Fintech, layanan on-demand | Jakarta, Indonesia | Agu 2019 sampai Jul 2020
 
 Fintech, pembayaran digital | Jakarta, Indonesia | Sep 2017 sampai Agu 2019
 
-- Menguji CMS dan admin portal di balik aplikasi Kudo, tempat tim internal memantau transaksi dan mengelola produk yang dijual di aplikasi
+- Menangani pengujian CMS dan admin portal di balik aplikasi Kudo, tempat tim internal memantau transaksi dan mengelola produk yang dijual di aplikasi
 - Menguji sistem promo dan voucher di lingkungan transaksi bervolume tinggi untuk menutup celah fraud, termasuk membantu penanganan insiden dengan mereproduksi skenario produksi
 - Memakai Black Box, Grey Box, dan Sanity testing lintas modul, mencatat temuan di JIRA, dan memeriksa data di baliknya lewat MySQL
 - Bergabung dengan squad promo yang dibentuk setelah kasus fraud promo dan voucher sebelumnya, lalu pindah ke tim finance and payment dan tim merchant yang kemudian menjadi Grab Merchant
