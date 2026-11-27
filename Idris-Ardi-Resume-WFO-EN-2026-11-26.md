@@ -70,10 +70,10 @@ E-commerce ticketing | Jakarta, Indonesia | Jul 2020 to Jun 2022
 
 Fintech, on-demand services | Jakarta, Indonesia | Aug 2019 to Jul 2020
 
-- Tested merchant onboarding and KYC/KYB verification for QRIS payment code generation, with attention to Indonesian financial regulations
-- Tested onboarding APIs in Postman, then checked data accuracy through SQL queries
-- Tested merchant apps on Android and iOS, making sure the onboarding flow stayed consistent and the UI matched Grab design standards
-- Wrote testing procedures and documentation in Confluence and TestRail so quality execution stayed consistent across the team
+- Validated the KYC form merchants complete before a QRIS payment code is issued, against Indonesian financial regulations
+- Tested the onboarding APIs in Postman, then confirmed the merchant records behind them through SQL queries
+- Checked the merchant apps on Android and iOS for a consistent onboarding flow and a UI that matched the Grab design system
+- Wrote testing procedures and documentation in Confluence and TestRail, which the team used to keep execution consistent
 
 ### Software QA Analyst, Kudo (now GrabKios)
 
