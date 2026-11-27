@@ -60,10 +60,10 @@ SaaS, penjualan tiket acara | Jakarta, Indonesia | Agu 2022 sampai Apr 2025
 
 E-commerce tiket | Jakarta, Indonesia | Jul 2020 sampai Jun 2022
 
-- Menguji alur booking, validasi, dan penukaran tiket untuk platform Entertainment dan To Do pada destinasi besar seperti Dufan, Ancol, dan Taman Safari
-- Memeriksa konsistensi tampilan dan fungsi di web, iOS, dan Android saat periode pemesanan puncak, lalu menindaklanjuti temuan UI dan integrasi bersama tim lain
-- Menelusuri edge case dan memastikan integritas data transaksi bervolume tinggi lewat analisis log dan query SQL
-- Menyusun dan menjalankan test plan di TestRail dan JIRA, sambil berkoordinasi dengan engineer dan product manager
+- Menguji alur booking, validasi, dan penukaran tiket Entertainment dan To Do di destinasi padat seperti Dufan, Ancol, dan Taman Safari
+- Memeriksa konsistensi tampilan dan perilaku build web, iOS, dan Android saat periode pemesanan puncak, lalu meneruskan celah UI dan integrasi ke tim pemiliknya
+- Memastikan integritas data transaksi bervolume tinggi lewat analisis log dan query SQL, dengan menelusuri edge case di balik booking yang gagal
+- Menyusun dan menjalankan test plan di TestRail dan JIRA, bekerja langsung dengan engineer dan product manager sampai setiap celah tertutup sebelum rilis
 
 ### Software QA Engineer, Grab Merchant
 

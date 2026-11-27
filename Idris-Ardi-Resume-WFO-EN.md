@@ -61,10 +61,10 @@ SaaS, event ticketing | Jakarta, Indonesia | Aug 2022 to Apr 2025
 
 E-commerce ticketing | Jakarta, Indonesia | Jul 2020 to Jun 2022
 
-- Tested booking, validation, and redemption flows for Entertainment and To Do ticketing across high-volume destinations such as Dufan, Ancol, and Taman Safari
-- Checked display and behaviour consistency across web, iOS, and Android during peak booking periods, then followed up UI and integration findings with other teams
-- Traced edge cases and verified data integrity for high-volume transactions through log analysis and SQL queries
-- Wrote and ran test plans in TestRail and JIRA while coordinating with engineers and product managers
+- Tested booking, validation, and redemption flows for Entertainment and To Do ticketing at high-traffic destinations such as Dufan, Ancol, and Taman Safari
+- Checked web, iOS, and Android builds for display and behaviour consistency during peak booking periods, and raised the UI and integration gaps they surfaced to the owning teams
+- Verified data integrity for high-volume transactions through log analysis and SQL queries, tracing the edge cases behind failed bookings
+- Wrote and ran test plans in TestRail and JIRA, working directly with engineers and product managers to close each gap before release
 
 ### Software QA Engineer, Grab Merchant
 
