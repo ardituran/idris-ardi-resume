@@ -88,10 +88,9 @@ Fintech, digital payments | Jakarta, Indonesia | Sep 2017 to Aug 2019
 
 IT solutions | Jakarta, Indonesia | Jun 2014 to Sep 2017
 
-- Tested a complex CRM system for Starhub Singapore, covering internet and TV cable packages, with attention to business requirements and billing accuracy
-- Handled enterprise projects across finance (Astra Credit ITSM), logistics (MyJNE), automotive (Toyota spare parts), and tech startups (Invisee)
-- Ran functional and regression testing on web and mobile applications across client projects, with consistent defect turnaround
-- Worked my first professional QA role, including test planning and defect documentation in JIRA
+- Tested a telco CRM system for Starhub Singapore, covering internet and TV cable packages and the billing rules behind each one
+- Tested enterprise client systems across finance (Astra Credit ITSM), logistics (MyJNE), automotive (Toyota spare parts), and tech startups (Invisee), on web and mobile
+- Owned test planning and defect documentation in JIRA, and saw the same employer through three years and four industries
 
 ## Education
 
