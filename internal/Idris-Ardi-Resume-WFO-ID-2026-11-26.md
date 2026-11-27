@@ -93,5 +93,5 @@ Solusi TI | Jakarta, Indonesia | Jun 2014 sampai Sep 2017
 
 ## Pendidikan
 
-Sarjana Ilmu Komputer (Bachelor of Science in Information Systems)
+Sarjana Komputer (S.Kom.)
 President University, Cikarang, Indonesia | Mei 2014

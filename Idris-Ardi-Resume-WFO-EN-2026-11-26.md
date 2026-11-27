@@ -94,5 +94,5 @@ IT solutions | Jakarta, Indonesia | Jun 2014 to Sep 2017
 
 ## Education
 
-Bachelor of Science in Information Systems
+Bachelor of Science in Information Systems (B.Sc.IS)
 President University, Cikarang, Indonesia | May 2014
